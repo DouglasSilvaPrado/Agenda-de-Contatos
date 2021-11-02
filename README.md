@@ -7,20 +7,20 @@
 <h2>Telas</h2>
 
 <p>Tela Inicial</p>
-<img src=""/>
-
+<img src="agenda/imagens/tela-principal.PNG"/>
+<hr>
 <p>Contatos</p>
-<img src=""/>
-
+<img src="agenda/imagens/tela-contatos.PNG"/>
+<hr>
 <p>Adicionar</p>
-<img src=""/>
-
+<img src="agenda/imagens/tela-novo-contato.PNG"/>
+<hr>
 <p>Editar</p>
-<img src=""/>
-
+<img src="agenda/imagens/tela-editar-contato.PNG"/>
+<hr>
 <p>relatorio PDF</p>
-<img src=""/>
-
+<img src="agenda/imagens/relatorio.PNG"/>
+<hr>
 <h2>Histórico de lançamentos</h2>
 <ul>
   <li>Versão 0.0.1</li>
